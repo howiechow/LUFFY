@@ -1,3 +1,0 @@
-# LUFFY Project
-
-## TODO

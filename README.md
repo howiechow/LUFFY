@@ -62,9 +62,7 @@ LUFFY/
 - [ ] `src/utils.py:7` - : Add logging to all functions
 - [ ] `src/utils.py:12` - : Remove dead code (unused_func)
 - [ ] `tests/test_utils.py:2` - : Write tests for hash_password
-- [ ] `tests/test_utils.py:6` - : Add integration tests
-
-## 🤝 Contributing
+- [ ] `tests/test_utils.py:6` - : Add integration tests## 🤝 Contributing
 
 1. Pick a TODO item from the list above
 2. Implement the functionality
